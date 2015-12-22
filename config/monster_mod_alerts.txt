@@ -48,7 +48,7 @@ TalismanMonsterCritMultiplierAmulet; Crit Multiplier Talisman;;ffCC3399;talisman
 TalismanMonsterElementalHitAmulet; Elemental Hit Talisman;;ffCC3399;talisman.png
 TalismanMonsterDeleteOnDeath; Delete On Death Talisman;;ffCC3399;talisman.png
 TalismanMonsterFishHunger_; Fish Hunger Talisman;;ffCC3399;talisman.png
-TalismanMonsterTimeDistortion; Time Distortion Talisman;;ffCC3399;talisman.png
+TalismanMonsterTimeDistortion; Atk & Cast Speed Talisman;;ffCC3399;talisman.png
 MapSpawnwealth; Map Spawn wealth;;ffCC3399;talisman.png
 MapSpawnExtrawealth; Map Spawn Extra wealth;;ffCC3399;talisman.png
 MapTalismanLeague; Map Talisman League;;ffCC3399;talisman.png
