@@ -1,6 +1,8 @@
 #Metadata;Text;colour (ARGB)
 #Example Metadata/Chests/StrongBoxes/Strongbox; ; ff00FF00
 
+Metadata/Terrain/StoneCircles/stonecircle_v01_01_plate.ao; Stone Altar; ffFFFF00
+
 #Metadata/Chests/StrongBoxes/Strongbox; ; ffD2D2D2
 #Metadata/Chests/StrongBoxes/Strongbox.ao; ; ffD2D2D2
 #Metadata/Chests/StrongBoxes/Ornate;  Ornate Strongbox; ffD2D2D2
