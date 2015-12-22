@@ -124,9 +124,9 @@ MonsterBloodlinesCorruptedBlood4; Corrupted Bloodline 4
 MonsterBloodlinesCorruptedBlood5; Corrupted Bloodline 5
 MonsterBloodlinesVoidspawn; Voidspawn of Abaxoth
 MonsterBloodlinesNecrovigil1; Necrovigil
-MonsterBloodlinesBeaconOnDeathFire; Flame Bearers
-MonsterBloodlinesBeaconOnDeathCold; Frost Bearers
-MonsterBloodlinesBeaconOnDeathLightning; Storm Bearers
+MonsterBloodlinesBeaconOnDeathFire; Flame Bearers;danger.wav;;pReflect.png
+MonsterBloodlinesBeaconOnDeathCold; Frost Bearers;danger.wav;;pReflect.png
+MonsterBloodlinesBeaconOnDeathLightning; Storm Bearers;danger.wav;;pReflect.png
 MonsterBloodlinesUnionOfSouls; Union of Souls
 MonsterBloodlinesShrouded; Shrouded
 MonsterBloodlinesPackDeathCountDaemon; Unnamed Bloodline Mod

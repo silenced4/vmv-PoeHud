@@ -296,7 +296,7 @@
     "LatencyTextColor": "dcbe82ff"
   },
   "Health bar": {
-    "Enable": false,
+    "Enable": true,
     "ShowInTown": false,
     "ShowES": true,
     "ShowIncrements": true,
@@ -341,7 +341,7 @@
       }
     },
     "Minions": {
-      "Enable": true,
+      "Enable": false,
       "Width": {
         "Value": 100.0,
         "Min": 50.0,
@@ -419,7 +419,7 @@
       }
     },
     "MagicEnemy": {
-      "Enable": false,
+      "Enable": true,
       "Width": {
         "Value": 100.0,
         "Min": 50.0,
