@@ -94,9 +94,9 @@ MonsterBloodlinesChaosBond; Bond of Chaos
 MonsterBloodlinesCongealingBloodRed_; Living Blood Red
 MonsterBloodlinesCongealingBloodYellow; Living Blood Yellow
 MonsterBloodlinesCongealingBloodMud; Living Blood Mud
-MonsterBloodlinesSharedEnduranceCharge; Shared Boon Endurance
-MonsterBloodlinesSharedFrenzyCharge; Shared Boon Frenzy
-MonsterBloodlinesSharedPowerCharge; Shared Boon Power
+#MonsterBloodlinesSharedEnduranceCharge; Shared Boon Endurance
+#MonsterBloodlinesSharedFrenzyCharge; Shared Boon Frenzy
+#MonsterBloodlinesSharedPowerCharge; Shared Boon Power
 MonsterBloodlinesBurningAura; Burning Aura
 MonsterBloodlinesBurningAura2; Burning Aura 2
 MonsterBloodlinesBurningAura3; Burning Aura 3
