@@ -50,3 +50,29 @@ C:\Users\me\Documents\GitHub\vmv-PoeHud\src\bin\Release\SharpDX.Mathematics.xml
 C:\Users\me\Documents\GitHub\vmv-PoeHud\src\bin\Release\FSharp.Core.xml
 C:\Users\me\Documents\GitHub\vmv-PoeHud\src\bin\Release\it\FSharp.Core.resources.dll
 C:\Users\me\Documents\GitHub\vmv-PoeHud\src\obj\Release\PoeHUD.csprojResolveAssemblyReference.cache
+D:\Igre\Path of Exile\poe-pvt\vmv-PoeHud\src\bin\Release\PoeHUD.exe.config
+D:\Igre\Path of Exile\poe-pvt\vmv-PoeHud\src\obj\Release\PoeHUD.exe
+D:\Igre\Path of Exile\poe-pvt\vmv-PoeHud\src\obj\Release\PoeHUD.pdb
+D:\Igre\Path of Exile\poe-pvt\vmv-PoeHud\src\bin\Release\PoeHUD.exe
+D:\Igre\Path of Exile\poe-pvt\vmv-PoeHud\src\bin\Release\PoeHUD.pdb
+D:\Igre\Path of Exile\poe-pvt\vmv-PoeHud\src\bin\Release\Antlr4.Runtime.dll
+D:\Igre\Path of Exile\poe-pvt\vmv-PoeHud\src\bin\Release\Newtonsoft.Json.dll
+D:\Igre\Path of Exile\poe-pvt\vmv-PoeHud\src\bin\Release\PoeFilterParser.dll
+D:\Igre\Path of Exile\poe-pvt\vmv-PoeHud\src\bin\Release\SharpDX.Desktop.dll
+D:\Igre\Path of Exile\poe-pvt\vmv-PoeHud\src\bin\Release\SharpDX.Direct3D9.dll
+D:\Igre\Path of Exile\poe-pvt\vmv-PoeHud\src\bin\Release\SharpDX.dll
+D:\Igre\Path of Exile\poe-pvt\vmv-PoeHud\src\bin\Release\SharpDX.Mathematics.dll
+D:\Igre\Path of Exile\poe-pvt\vmv-PoeHud\src\bin\Release\Tools.dll
+D:\Igre\Path of Exile\poe-pvt\vmv-PoeHud\src\bin\Release\FSharp.Core.dll
+D:\Igre\Path of Exile\poe-pvt\vmv-PoeHud\src\bin\Release\PoeFilterParser.pdb
+D:\Igre\Path of Exile\poe-pvt\vmv-PoeHud\src\bin\Release\Tools.pdb
+D:\Igre\Path of Exile\poe-pvt\vmv-PoeHud\src\bin\Release\Tools.xml
+D:\Igre\Path of Exile\poe-pvt\vmv-PoeHud\src\bin\Release\Antlr4.Runtime.xml
+D:\Igre\Path of Exile\poe-pvt\vmv-PoeHud\src\bin\Release\Newtonsoft.Json.xml
+D:\Igre\Path of Exile\poe-pvt\vmv-PoeHud\src\bin\Release\SharpDX.xml
+D:\Igre\Path of Exile\poe-pvt\vmv-PoeHud\src\bin\Release\SharpDX.Desktop.xml
+D:\Igre\Path of Exile\poe-pvt\vmv-PoeHud\src\bin\Release\SharpDX.Direct3D9.xml
+D:\Igre\Path of Exile\poe-pvt\vmv-PoeHud\src\bin\Release\SharpDX.Mathematics.xml
+D:\Igre\Path of Exile\poe-pvt\vmv-PoeHud\src\bin\Release\FSharp.Core.xml
+D:\Igre\Path of Exile\poe-pvt\vmv-PoeHud\src\bin\Release\it\FSharp.Core.resources.dll
+D:\Igre\Path of Exile\poe-pvt\vmv-PoeHud\src\obj\Release\PoeHUD.csprojResolveAssemblyReference.cache

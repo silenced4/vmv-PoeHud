@@ -36,3 +36,11 @@ C:\Users\me\Documents\GitHub\vmv-PoeHud\src\PoeFilterParser\bin\Release\Antlr4.R
 C:\Users\me\Documents\GitHub\vmv-PoeHud\src\PoeFilterParser\obj\Release\PoeFilterParser.dll
 C:\Users\me\Documents\GitHub\vmv-PoeHud\src\PoeFilterParser\obj\Release\PoeFilterParser.pdb
 C:\Users\me\Documents\GitHub\vmv-PoeHud\src\PoeFilterParser\obj\Release\PoeFilterParser.csprojResolveAssemblyReference.cache
+D:\Igre\Path of Exile\poe-pvt\vmv-PoeHud\src\PoeFilterParser\bin\Release\PoeFilterParser.dll.config
+D:\Igre\Path of Exile\poe-pvt\vmv-PoeHud\src\PoeFilterParser\bin\Release\PoeFilterParser.dll
+D:\Igre\Path of Exile\poe-pvt\vmv-PoeHud\src\PoeFilterParser\bin\Release\PoeFilterParser.pdb
+D:\Igre\Path of Exile\poe-pvt\vmv-PoeHud\src\PoeFilterParser\bin\Release\Antlr4.Runtime.dll
+D:\Igre\Path of Exile\poe-pvt\vmv-PoeHud\src\PoeFilterParser\bin\Release\Antlr4.Runtime.xml
+D:\Igre\Path of Exile\poe-pvt\vmv-PoeHud\src\PoeFilterParser\obj\Release\PoeFilterParser.csprojResolveAssemblyReference.cache
+D:\Igre\Path of Exile\poe-pvt\vmv-PoeHud\src\PoeFilterParser\obj\Release\PoeFilterParser.dll
+D:\Igre\Path of Exile\poe-pvt\vmv-PoeHud\src\PoeFilterParser\obj\Release\PoeFilterParser.pdb
