@@ -62,7 +62,7 @@ TalismanT2LocustcallerLightning;  LightningAvian Twins Talisman;;ffCC3399;talism
 TalismanT2Volcanic; Primal Skull Talisman;;ffCC3399;talisman.png
 TalismanT2Deathscape; Clutching Talisman;;ffCC3399;talisman.png
 TalismanT2Wicked; Wereclaw Talisman;;ffCC3399;talisman.png
-TalismanT2SacrificalBlades; Hexclaw Talisman;;ffCC3399;talisman.png
+TalismanT2SacrificalBlades; Critical Chance Talisman;;ffCC3399;talisman.png
 TalismanT2StaticFiends; Splitnewt Talisman;;ffCC3399;talisman.png
 
 TalismanT3Ghosting; Spinefuse Talisman;;ffCC3399;talisman.png
