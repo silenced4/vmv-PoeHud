@@ -59,7 +59,7 @@ TalismanT2RatSwarm; Three Rat Talisman;;ffCC3399;talisman.png
 TalismanT2LocustcallerIce; Ice Avian Twins Talisman;;ffCC3399;talisman.png
 TalismanT2LocustcallerFire;  Fire Avian Twins Talisman;;ffCC3399;talisman.png
 TalismanT2LocustcallerLightning;  LightningAvian Twins Talisman;;ffCC3399;talisman.png
-TalismanT2Volcanic; Primal Skull Talisman;;ffCC3399;talisman.png
+TalismanT2Volcanic; Life Regenerated Talisman;;ffCC3399;talisman.png
 TalismanT2Deathscape; Clutching Talisman;;ffCC3399;talisman.png
 TalismanT2Wicked; Wereclaw Talisman;;ffCC3399;talisman.png
 TalismanT2SacrificalBlades; Critical Chance Talisman;;ffCC3399;talisman.png
