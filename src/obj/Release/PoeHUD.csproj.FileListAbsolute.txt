@@ -50,3 +50,6 @@ C:\Users\me\Documents\GitHub\vmv-PoeHud\src\bin\Release\SharpDX.Mathematics.xml
 C:\Users\me\Documents\GitHub\vmv-PoeHud\src\bin\Release\FSharp.Core.xml
 C:\Users\me\Documents\GitHub\vmv-PoeHud\src\bin\Release\it\FSharp.Core.resources.dll
 C:\Users\me\Documents\GitHub\vmv-PoeHud\src\obj\Release\PoeHUD.csprojResolveAssemblyReference.cache
+D:\Igre\Path of Exile\poe-pvt\vmv-PoeHud\src\bin\Release\PoeHUD.exe.config
+D:\Igre\Path of Exile\poe-pvt\vmv-PoeHud\src\obj\Release\PoeHUD.exe
+D:\Igre\Path of Exile\poe-pvt\vmv-PoeHud\src\obj\Release\PoeHUD.pdb
