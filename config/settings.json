@@ -183,7 +183,7 @@
   "Monster tracker": {
     "Enable": true,
     "Monsters": true,
-    "Minions": true,
+    "Minions": false,
     "PlaySound": true,
     "SoundVolume": {
       "Value": 50,
@@ -192,14 +192,14 @@
     },
     "ShowText": true,
     "TextSize": {
-      "Value": 24,
+      "Value": 33,
       "Min": 10,
       "Max": 50
     },
     "DefaultTextColor": "ff0000ff",
     "BackgroundColor": "c0c0c0e6",
     "TextPositionX": {
-      "Value": 50,
+      "Value": 52,
       "Min": 0,
       "Max": 100
     },
