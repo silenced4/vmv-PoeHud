@@ -124,7 +124,7 @@ namespace PoeHUD.Hud.Preload
 
                 Dictionary<string, PreloadConfigLine> Talismans = new Dictionary<string, PreloadConfigLine>
                 {
-                    {"Metadata/Monsters/Daemon/TalismanDaemonDevour", new PreloadConfigLine { Text = "Unset Talisman", FastColor = () => Settings.TalismanModsColor}},
+                    {"Metadata/Monsters/Daemon/TalismanDaemonDevour", new PreloadConfigLine { Text = "Has 1 Socket Talisman", FastColor = () => Settings.TalismanModsColor}},
                     {"Metadata/Monsters/Daemon/TalismanT1SummonBonespireDaemon", new PreloadConfigLine { Text = "Increased Mana Talisman", FastColor = () => Settings.TalismanModsColor}},
                     {"Metadata/Monsters/Daemon/TalismanDaemonIceRuneTrap", new PreloadConfigLine { Text = "Cold Damage Talisman", FastColor = () => Settings.TalismanModsColor}},
                     {"Metadata/Monsters/Daemon/TalismanDaemonSummonRagingSpirits", new PreloadConfigLine { Text = "Fire Damage Talisman", FastColor = () => Settings.TalismanModsColor}},
