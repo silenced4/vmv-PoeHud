@@ -224,7 +224,7 @@
     "Exiles": true,
     "Strongboxes": true,
     "TextSize": {
-      "Value": 16,
+      "Value": 23,
       "Min": 10,
       "Max": 50
     },
@@ -380,7 +380,7 @@
       }
     },
     "NormalEnemy": {
-      "Enable": false,
+      "Enable": true,
       "Width": {
         "Value": 80.0,
         "Min": 50.0,
