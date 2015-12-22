@@ -22,7 +22,7 @@ MonsterThornsPhysical1Large; Physical Reflect nearby;attention.wav;ffF7941D;pRef
 MonsterThornsElemental1Large; Elemental Reflect nearby;attention.wav;ff00FFFF;eReflect.png
 
 
-TalismanMonsterUnsetAmulet; Unset Talisman;;ffCC3399;talisman.png
+TalismanMonsterUnsetAmulet; Has 1 Socket Talisman;;ffCC3399;talisman.png
 TalismanMonsterManaAmulet; Mana Talisman;;ffCC3399;talisman.png
 TalismanMonsterFireDamageAmulet; Fire Damage Talisman;;ffCC3399;talisman.png
 TalismanMonsterColdDamageAmulet; Cold Damage Talisman;;ffCC3399;talisman.png
