@@ -274,7 +274,6 @@ namespace PoeHUD.Hud.Menu
             AddChild(strongboxes, "Kaom", settingsHub.PreloadAlertSettings.KaomStrongbox);
             AddChild(strongboxes, "Malachai", settingsHub.PreloadAlertSettings.MalachaiStrongbox);
             AddChild(strongboxes, "Epic", settingsHub.PreloadAlertSettings.EpicStrongbox);
-			AddChild(strongboxes, "BarrelOfSpiders", settingsHub.PreloadAlertSettings.BarrelOfSpiders);
             AddChild(strongboxes, "Simple", settingsHub.PreloadAlertSettings.SimpleStrongbox);
             var corruptedMenu = AddChild(preloadMenu, "Corrupted Area", settingsHub.PreloadAlertSettings.Strongboxes);
             AddChild(corruptedMenu, "Use corrupted title", settingsHub.PreloadAlertSettings.CorruptedTitle);
